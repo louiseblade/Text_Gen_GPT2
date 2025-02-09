@@ -113,4 +113,7 @@ if __name__ == "__main__":
         # Evaluate the model with a sample input
         response = evaluate_model("how are you , boi")
         print(response)
+<<<<<<< HEAD
         #
+=======
+>>>>>>> 78d2ca9 (Update few lines of code for Text Gen py)
